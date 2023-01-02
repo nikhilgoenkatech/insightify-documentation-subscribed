@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdt_adoptionoverview_extension=self.webpackChunkdt_adoptionoverview_extension||[]).push([[516],{8405:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/insightify-documentation-subscribed/blog/tags/hola","allTagsPath":"/insightify-documentation-subscribed/blog/tags","count":1}')}}]);
